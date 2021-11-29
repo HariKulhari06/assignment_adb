@@ -12,13 +12,13 @@
 - Use git, and track changes by making multiple commits with meaningful messages.
 
 
-#### Start application with splash activity
+#### Start SplashActivity with logo animation
 
 ```sh
 adb shell am start -n com.example.assignment/com.example.assignment.ui.splash.SplashActivity
 ```
 
-#### Start application without splash activity
+#### Start SplashActivity without logo animation
 
 ```sh
 adb shell am start -n com.example.assignment/com.example.assignment.ui.splash.SplashActivity --ez "navigate_to_info" true
