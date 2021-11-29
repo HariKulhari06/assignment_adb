@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Hari/HCL/app/src/main/res/layout/activity_info.xml" value="0.20615384615384616" />
         <entry key="..\:/Users/Hari/HCL/app/src/main/res/layout/activity_main.xml" value="0.1287037037037037" />
+        <entry key="..\:/Users/Hari/HCL/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
+        <entry key="..\:/Users/Hari/HCL/app/src/main/res/layout/content_info.xml" value="0.209375" />
         <entry key="..\:/Users/Hari/HCL/app/src/main/res/layout/content_main.xml" value="0.20615384615384616" />
         <entry key="..\:/Users/Hari/HCL/app/src/main/res/layout/fragment_first.xml" value="0.1287037037037037" />
         <entry key="..\:/Users/Hari/HCL/app/src/main/res/layout/fragment_second.xml" value="0.20615384615384616" />
+        <entry key="..\:/Users/Hari/HCL/app/src/main/res/layout/home_fragment.xml" value="0.1953125" />
       </map>
     </option>
   </component>
